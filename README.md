@@ -18,16 +18,22 @@ Rastgele veya kullanıcı tarafından oluşturulan harflerden **anlamlı kelime*
 ## Ekran Görüntüleri
 * **'Nasıl Çalışır?'** Ekranı
 
-![Nasıl Ekranı](https://i.imgyukle.com/2020/04/29/ryJ8Iq.png)
+![Nasıl Ekranı](images/nasil.PNG)
 * **'Oyna'** Ekranı
 
-![Oyna Ekranı](https://i.imgyukle.com/2020/04/29/ryQ7eR.png)
+![Oyna Ekranı](images/oyna.PNG)
+* **'Sorgu'** Ekranı
+
+![Sorgu Ekranı](images/sorgu.PNG)
 * **'Elle'** Ekranı
 
-![Elle Ekranı](https://i.imgyukle.com/2020/04/29/ryrcHI.png)
+![Elle Ekranı](images/elle.PNG)
+* **'En uzun kelime'** Ekranı
+
+![En Uzun Kelime Ekranı](images/tek.PNG)
 * **'Rastgele'** Ekranı
 
-![Rastgele Ekranı](https://i.imgyukle.com/2020/04/29/ryrmct.png)
+![Rastgele Ekranı](images/rastgele.PNG)
 
 ## Lisans
 
