@@ -469,7 +469,7 @@
             // pictureBox10
             // 
             this.pictureBox10.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox10.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox10.Image")));
+            this.pictureBox10.Image = global::sekiz_harf_bir_kelime.Properties.Resources.gear;
             this.pictureBox10.Location = new System.Drawing.Point(555, 449);
             this.pictureBox10.Name = "pictureBox10";
             this.pictureBox10.Size = new System.Drawing.Size(80, 80);
@@ -480,7 +480,7 @@
             // pictureBox9
             // 
             this.pictureBox9.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox9.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox9.Image")));
+            this.pictureBox9.Image = global::sekiz_harf_bir_kelime.Properties.Resources.gear;
             this.pictureBox9.Location = new System.Drawing.Point(503, 385);
             this.pictureBox9.Name = "pictureBox9";
             this.pictureBox9.Size = new System.Drawing.Size(80, 80);
@@ -491,7 +491,7 @@
             // pictureBox8
             // 
             this.pictureBox8.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox8.Image")));
+            this.pictureBox8.Image = global::sekiz_harf_bir_kelime.Properties.Resources.gear;
             this.pictureBox8.Location = new System.Drawing.Point(447, 449);
             this.pictureBox8.Name = "pictureBox8";
             this.pictureBox8.Size = new System.Drawing.Size(80, 80);
@@ -502,7 +502,7 @@
             // pictureBox7
             // 
             this.pictureBox7.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox7.Image")));
+            this.pictureBox7.Image = global::sekiz_harf_bir_kelime.Properties.Resources.gear;
             this.pictureBox7.Location = new System.Drawing.Point(392, 385);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(80, 80);
@@ -513,7 +513,7 @@
             // pictureBox6
             // 
             this.pictureBox6.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
+            this.pictureBox6.Image = global::sekiz_harf_bir_kelime.Properties.Resources.gear;
             this.pictureBox6.Location = new System.Drawing.Point(336, 449);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(80, 80);
@@ -524,7 +524,7 @@
             // pictureBox5
             // 
             this.pictureBox5.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
+            this.pictureBox5.Image = global::sekiz_harf_bir_kelime.Properties.Resources.gear;
             this.pictureBox5.Location = new System.Drawing.Point(282, 385);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(80, 80);
@@ -535,7 +535,7 @@
             // pictureBox4
             // 
             this.pictureBox4.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
+            this.pictureBox4.Image = global::sekiz_harf_bir_kelime.Properties.Resources.gear;
             this.pictureBox4.Location = new System.Drawing.Point(224, 449);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(80, 80);
@@ -546,7 +546,7 @@
             // pictureBox3
             // 
             this.pictureBox3.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
+            this.pictureBox3.Image = global::sekiz_harf_bir_kelime.Properties.Resources.gear;
             this.pictureBox3.Location = new System.Drawing.Point(170, 385);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(80, 80);
@@ -557,7 +557,7 @@
             // pictureBox2
             // 
             this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
+            this.pictureBox2.Image = global::sekiz_harf_bir_kelime.Properties.Resources.gear;
             this.pictureBox2.Location = new System.Drawing.Point(119, 449);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(80, 80);
@@ -697,7 +697,7 @@
             // pictureBox11
             // 
             this.pictureBox11.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox11.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox11.Image")));
+            this.pictureBox11.Image = global::sekiz_harf_bir_kelime.Properties.Resources.logo;
             this.pictureBox11.Location = new System.Drawing.Point(12, 4);
             this.pictureBox11.Name = "pictureBox11";
             this.pictureBox11.Size = new System.Drawing.Size(40, 40);
@@ -716,7 +716,7 @@
             this.oynaBtn.Cursor = System.Windows.Forms.Cursors.Hand;
             this.oynaBtn.DisabledColor = System.Drawing.Color.White;
             this.oynaBtn.Iconcolor = System.Drawing.Color.Transparent;
-            this.oynaBtn.Iconimage = ((System.Drawing.Image)(resources.GetObject("oynaBtn.Iconimage")));
+            this.oynaBtn.Iconimage = global::sekiz_harf_bir_kelime.Properties.Resources.play;
             this.oynaBtn.Iconimage_right = null;
             this.oynaBtn.Iconimage_right_Selected = null;
             this.oynaBtn.Iconimage_Selected = null;
@@ -752,7 +752,7 @@
             this.nasilBtn.Cursor = System.Windows.Forms.Cursors.Hand;
             this.nasilBtn.DisabledColor = System.Drawing.Color.White;
             this.nasilBtn.Iconcolor = System.Drawing.Color.Transparent;
-            this.nasilBtn.Iconimage = ((System.Drawing.Image)(resources.GetObject("nasilBtn.Iconimage")));
+            this.nasilBtn.Iconimage = global::sekiz_harf_bir_kelime.Properties.Resources.how;
             this.nasilBtn.Iconimage_right = null;
             this.nasilBtn.Iconimage_right_Selected = null;
             this.nasilBtn.Iconimage_Selected = null;
@@ -784,8 +784,8 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(196)))), ((int)(((byte)(204)))));
             this.ClientSize = new System.Drawing.Size(748, 684);
             this.Controls.Add(this.dragPnl);
-            this.Controls.Add(this.kelimeOyunuPnl);
             this.Controls.Add(this.nasilCalisirPnl);
+            this.Controls.Add(this.kelimeOyunuPnl);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
